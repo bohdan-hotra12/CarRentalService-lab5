@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CarRentalService\bin\Debug\net8.0\CarRentalService.exe
+C:\Users\Asus\source\repos\CarRentalService\bin\Debug\net8.0\CarRentalService.deps.json
+C:\Users\Asus\source\repos\CarRentalService\bin\Debug\net8.0\CarRentalService.runtimeconfig.json
+C:\Users\Asus\source\repos\CarRentalService\bin\Debug\net8.0\CarRentalService.dll
+C:\Users\Asus\source\repos\CarRentalService\bin\Debug\net8.0\CarRentalService.pdb
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.dll
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\refint\CarRentalService.dll
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.pdb
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\CarRentalService.genruntimeconfig.cache
+C:\Users\Asus\source\repos\CarRentalService\obj\Debug\net8.0\ref\CarRentalService.dll

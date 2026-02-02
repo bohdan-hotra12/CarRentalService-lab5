@@ -1,0 +1,16 @@
+Id,Model,Type,PricePerDay,IsAvailable,RentedByClientId,RentedFrom,RentedDays
+1,Toyota Corolla,Легковий,500,False,2,2026-01-11,10
+2,BMW 5 Series,Легковий,700,False,2,2026-01-11,35
+3,Tesla Model 3,Електро,1000,True,0,,0
+4,Audi A4,Легковий,650,True,0,,0
+5,Honda Civic,Легковий,550,True,0,,0
+6,Toyota RAV4,Позашляховик,800,True,0,,0
+7,Mercedes Sprinter,Мiкроавтобус,1200,True,0,,0
+8,Ман,Грузовий,10000,True,0,,0
+9,CyberTrack,Позашляховик,1000,True,0,,0
+10,Запорожець,Легковий,10,False,2,2026-01-11,1
+11,Жигуль,Легковий,111,False,1,2026-01-11,1
+12,,,12,True,0,,0
+13,Опель,Легковий,100,True,0,,0
+14,Хонда,Легковий,1000,True,0,,0
+15,,,12,True,0,,0
